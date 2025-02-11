@@ -65,10 +65,11 @@ Estas são as tecnologias e ferramentas com as quais trabalho:
 ---
 
 ## 📚 Sobre mim
-- 🔭 Atualmente estou trabalhando em projetos de backend com **Spring Boot** e explorando o mundo do **Cloud Computing**.
-- 🌱 Estou aprendendo mais sobre **DevOps**, **AWS** e **CI/CD**.
-- 🎯 Meu objetivo: contribuir para projetos open source e me tornar um especialista em arquiteturas escaláveis.
-- ⚡ Fato curioso: Amo resolver desafios de lógica e sou um entusiasta de inteligência artificial.
+-🎓 Estudante de Desenvolvimento Web, sempre em busca de aprimorar minhas habilidades.
+-☁️ Explorando tecnologias backend e Cloud Computing para criar soluções escaláveis.
+-🔗 Aprofundando meus conhecimentos em APIs, desenvolvendo projetos práticos e aplicáveis.
+-🎯 Determinado a contribuir para o open source e me especializar em arquiteturas escaláveis.
+-🧠 Apaixonado por inteligência artificial e pelo potencial das APIs para conectar o mundo digital.
 
 ---
 
