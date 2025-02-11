@@ -65,11 +65,11 @@ Estas são as tecnologias e ferramentas com as quais trabalho:
 ---
 
 ## 📚 Sobre mim
--🎓 Estudante de Desenvolvimento Web, sempre em busca de aprimorar minhas habilidades.
--☁️ Explorando tecnologias backend e Cloud Computing para criar soluções escaláveis.
--🔗 Aprofundando meus conhecimentos em APIs, desenvolvendo projetos práticos e aplicáveis.
--🎯 Determinado a contribuir para o open source e me especializar em arquiteturas escaláveis.
--🧠 Apaixonado por inteligência artificial e pelo potencial das APIs para conectar o mundo digital.
+- 🎓 Estudante de Desenvolvimento Web, sempre em busca de aprimorar minhas habilidades.
+- ☁️ Explorando tecnologias backend e Cloud Computing para criar soluções escaláveis.
+- 🔗 Aprofundando meus conhecimentos em APIs, desenvolvendo projetos práticos e aplicáveis.
+- 🎯 Determinado a contribuir para o open source e me especializar em arquiteturas escaláveis.
+- 🧠 Apaixonado por inteligência artificial e pelo potencial das APIs para conectar o mundo digital.
 
 ---
 
