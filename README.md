@@ -1,6 +1,6 @@
-# Oii galera, prazer eu sou o Neto e sou um dev apaixonado por tecnologia e programação 🧑‍💻
+# Olá, prazer eu sou o Neto !
 
-Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, ideias e muita paixão por desenvolvimento de software. Sempre buscando aprender, evoluir e compartilhar conhecimentos. 🚀
+Bem-vindo ao meu perfil! Aqui você encontrará meus trabalhos, insights e meu entusiasmo pelo desenvolvimento de software. Sempre explorando novas aprendizagens, evoluindo e compartilhando experiências!
 
 ---
 
