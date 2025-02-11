@@ -54,14 +54,11 @@ Estas são as tecnologias e ferramentas com as quais trabalho:
 
 ## 🌐 Redes Sociais & Contato
 <div align="left">
-  <a href="https://www.linkedin.com/in/luiz-guilherme-sousa-braga-648480219/" target="_blank">
+  <a href="www.linkedin.com/in/netonog" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:luizguilhermeinformat@gmail.com" target="_blank">
+  <a href="mailto:n.nog@icloud.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://wa.me/qr/7JSITABSVJY7E1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
   </a>
 </div>
 
