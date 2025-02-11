@@ -28,7 +28,7 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: LuizGuilhes123 # Seu nome de usuário no GitHub
+          github_user_name: NetoNog # Seu nome de usuário no GitHub
           outputs: dist/snake.svg?palette=github-dark # Configura o estilo do snake.svg
 
       # 3. Publicar o arquivo snake.svg no branch "output"
