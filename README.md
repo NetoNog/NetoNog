@@ -50,7 +50,7 @@ Estas são as tecnologias e ferramentas com as quais trabalho:
   <img src="https://raw.githubusercontent.com/NetoNog/NetoNog/refs/heads/main/.github/workflows/snake.yml" alt="Snake animation" />
 </div>
 
----
+----
 
 ## 🌐 Redes Sociais & Contato
 <div align="left">
