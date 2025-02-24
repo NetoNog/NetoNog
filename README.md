@@ -1,4 +1,4 @@
-# Olá, tudo bem? Eu sou o Neto, prazer! 😊
+# Olá, tudo bem? Eu sou o Neto! 😊
 
 Bem-vindo ao meu perfil! Aqui você encontrará meus trabalhos, insights e meu entusiasmo pelo desenvolvimento de software. Sempre explorando novas aprendizagens, evoluindo e compartilhando experiências!
 
