@@ -44,11 +44,7 @@ Estas são as tecnologias e ferramentas com as quais trabalho:
 
 ---
 
-## <img src="https://media3.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="25"> 📈 Snake Game
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NetoNog/NetoNog/refs/heads/main/.github/workflows/snake.yml" alt="Snake animation" />
-</div>
 
 ----
 
