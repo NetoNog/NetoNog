@@ -8,7 +8,6 @@ Bem-vindo ao meu perfil! Aqui você encontrará meus trabalhos, insights e meu e
   <img src="https://github-readme-stats.vercel.app/api?username=NetoNog&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NetoNog&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Linguagens mais usadas" />
 </div>
-
 ----
 ## 👾 Minha Stack:
 Estas são as tecnologias e ferramentas com as quais trabalho:
