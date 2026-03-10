@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda automaticamente todos os dias à meia-noite
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
   push:
     branches:
     - main
@@ -20,7 +20,7 @@ jobs:
           github_user_name: NetoNog
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300b4d8&color_dots=%23161b22%2C%23004d61%2C%23007a99%2C%2300b4d8%2C%2380e2f4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
