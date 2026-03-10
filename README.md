@@ -1,7 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Neto%20Nog&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Software%20Engineer&descSize=25&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=280&section=header&text=Neto%20Nog&fontSize=90&animation=fadeIn&fontAlignY=35&textBg=false&desc=Fullstack%20Software%20Engineer&descSize=25&descAlignY=55&fontColor=00b4d8" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&width=435&lines=Building+Scalable+Solutions;Backend+%26+Cloud+Specialist;Always+Learning+New+Techs" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%" style="margin-top: -120px;" />
+
+  <br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-00b4d8?style=for-the-badge&logo=target&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-2ecc71?style=for-the-badge&logo=workplace&logoColor=white" />
+  </p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Especialista+em+Java+%26+Spring;Arquiteto+de+Cloud+AWS;UI%2FUX+com+React+%26+Next.js" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,9 +23,6 @@
       <p>Desenvolvedor apaixonado por arquitetura de software e performance. Especializado no ecossistema <b>JavaScript/TypeScript</b> e em aplicações robustas com <b>Java Spring Boot</b> e <b>Python</b>.</p>
       <p>💡 Atualmente focado em <b>Microserviços</b> e <b>Cloud Computing (AWS)</b> para criar sistemas que suportam milhares de acessos.</p>
       <p>🎓 Estudante constante, focado em transformar problemas complexos em código elegante.</p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoNog&layout=compact&theme=dracula&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&hide_border=true" width="300px" />
     </td>
   </tr>
 </table>
