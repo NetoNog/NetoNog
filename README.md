@@ -21,7 +21,7 @@
       <p>Desenvolvedor focado em automação de fluxos, integrações de sistemas e desenvolvimento Full-Stack.</p>
       <p>💡 Atualmente, meu dia a dia envolve criar soluções corporativas robustas com o ecossistema <b>Microsoft (Power Automate, Power Apps e Dataverse)</b>, automatizar processos complexos usando <b>n8n</b> e <b>Python</b>, e desenvolver interfaces web modernas e performáticas com <b>React, Next.js, JavaScript, HTML e CSS</b>.</p>
       <p>🛠️ Utilizo o <b>Postman</b> para orquestrar e testar as APIs que conectam todos esses mundos, construindo pontes sólidas entre diferentes plataformas e transformando processos manuais em fluxos invisíveis de automação.</p>
-      <p>🏋️‍♂️ Fora do horário de trabalho, mantenho a disciplina nos treinos pesados na academia, dedico meu tempo aos meus cachorros e me aventuro em projetos DIY (como costura de jaquetas geek!).</p>
+      <p>🏋️‍♂️ Fora do horário de trabalho, mantenho a disciplina nos treinos pesados na academia, dedico meu tempo aos meus cachorros e me aventuro em esportes ao ar livre (como basquete e corrida de rua!).</p>
     </td>
   </tr>
 </table>
