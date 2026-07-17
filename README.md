@@ -1,16 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0d1117&amp;height=280&amp;section=header&amp;text=Neto%20Nog&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=35&amp;textBg=false&amp;desc=Fullstack%20Software%20Engineer%20%26%20Automation&amp;descSize=25&amp;descAlignY=55&amp;fontColor=00b4d8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0d1117&amp;height=280&amp;section=header&amp;text=Neto%20Nog&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=35&amp;textBg=false&amp;desc=Fullstack%20Software%20Engineer&amp;descSize=25&amp;descAlignY=55&amp;fontColor=00b4d8" alt="Neto Nog" />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=00b4d8&amp;height=100&amp;section=footer" width="100%" style="margin-top: -120px;" />
 
   <br/>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20Automation-00b4d8?style=for-the-badge&amp;logo=target&amp;logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-2ecc71?style=for-the-badge&amp;logo=workplace&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20Automation-00b4d8?style=for-the-badge&amp;logo=target&amp;logoColor=white" alt="Focus: Fullstack &amp; Automation" />
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-2ecc71?style=for-the-badge&amp;logo=workplace&amp;logoColor=white" alt="Status: Open To Work" />
   </p>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=00B4D8&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Especialista+em+React+%26+Next.js;Power+Platform+%26+Dataverse;Python,+n8n+%26+Automação" alt="Typing SVG" />
 </div>
 
 ---
@@ -35,10 +33,10 @@
 <div align="center">
   <h4>Automação &amp; Dados Corporativos</h4>
   <p>
-    <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&amp;logo=powerautomate&amp;logoColor=white" />
-    <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&amp;logo=powerapps&amp;logoColor=white" />
-    <img src="https://img.shields.io/badge/Dataverse-0078D4?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" />
-    <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&amp;logo=powerautomate&amp;logoColor=white" alt="Power Automate" />
+    <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&amp;logo=powerapps&amp;logoColor=white" alt="Power Apps" />
+    <img src="https://img.shields.io/badge/Dataverse-0078D4?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="Dataverse" />
+    <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
   </p>
 
   <br/>
@@ -50,9 +48,9 @@
       <td align="center"><b>Tools &amp; Infra</b></td>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" /></td>
-      <td><img src="https://skillicons.dev/icons?i=python,postman" /></td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,vscode,bash" /></td>
+      <td><img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" alt="Frontend Icons" /></td>
+      <td><img src="https://skillicons.dev/icons?i=python,postman" alt="Backend Icons" /></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,vscode,bash" alt="Tools Icons" /></td>
     </tr>
   </table>
 </div>
@@ -62,8 +60,8 @@
 ### 📊 GitHub Activity &amp; Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NetoNog&amp;show_icons=true&amp;theme=dracula&amp;bg_color=0d1117&amp;title_color=00b4d8&amp;text_color=ffffff&amp;border_color=00b4d8&amp;hide_border=false&amp;border_radius=12" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NetoNog&amp;theme=dracula&amp;background=0d1117&amp;border=00b4d8&amp;stroke=00b4d8&amp;ring=00b4d8&amp;fire=00b4d8&amp;currStreakLabel=00b4d8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NetoNog&amp;show_icons=true&amp;theme=dracula&amp;bg_color=0d1117&amp;title_color=00b4d8&amp;text_color=ffffff&amp;border_color=00b4d8&amp;hide_border=false&amp;border_radius=12" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NetoNog&amp;theme=dracula&amp;background=0d1117&amp;border=00b4d8&amp;stroke=00b4d8&amp;ring=00b4d8&amp;fire=00b4d8&amp;currStreakLabel=00b4d8" height="180" alt="GitHub Streak" />
 </div>
 
 ---
@@ -79,20 +77,20 @@
 
 <div align="center">
   <a href="mailto:n.nog@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=icloud&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=icloud&amp;logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/netonog">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/SEU_NUMERO">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NetoNog&amp;color=00b4d8&amp;style=flat-square&amp;label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=NetoNog&amp;color=00b4d8&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <div align="right">
