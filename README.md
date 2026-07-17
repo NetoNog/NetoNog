@@ -57,11 +57,13 @@
 
 ---
 
-### 📊 GitHub Activity &amp; Performance
+### 📊 GitHub Activity & Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NetoNog&amp;show_icons=true&amp;theme=dracula&amp;bg_color=0d1117&amp;title_color=00b4d8&amp;text_color=ffffff&amp;border_color=00b4d8&amp;hide_border=false&amp;border_radius=12" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NetoNog&amp;theme=dracula&amp;background=0d1117&amp;border=00b4d8&amp;stroke=00b4d8&amp;ring=00b4d8&amp;fire=00b4d8&amp;currStreakLabel=00b4d8" height="180" alt="GitHub Streak" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NetoNog&show_icons=true&theme=dracula&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&border_color=00b4d8&hide_border=false&border_radius=12)](https://github.com/NetoNog)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NetoNog&theme=dracula&background=0d1117&border=00b4d8&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8)](https://github.com/NetoNog)
+
 </div>
 
 ---
