@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=280&section=header&text=Neto%20Nog&fontSize=90&animation=fadeIn&fontAlignY=35&textBg=false&desc=Fullstack%20Software%20Engineer&descSize=25&descAlignY=55&fontColor=00b4d8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=280&section=header&text=Neto%20Nog&fontSize=90&animation=fadeIn&fontAlignY=35&textBg=false&desc=Fullstack%20Software%20Engineer%20%26%20Automation&descSize=25&descAlignY=55&fontColor=00b4d8" width="100%" />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%" style="margin-top: -120px;" />
 
   <br/>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-00b4d8?style=for-the-badge&logo=target&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20Automation-00b4d8?style=for-the-badge&logo=target&logoColor=white" />
     <img src="https://img.shields.io/badge/Status-Open%20To%20Work-2ecc71?style=for-the-badge&logo=workplace&logoColor=white" />
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Especialista+em+Java+%26+Spring;Arquiteto+de+Cloud+AWS;UI%2FUX+com+React+%26+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=Especialista+em+Node.js+%26+Next.js;Automação+Avançada+com+n8n;Integração+de+Sistemas+(ITSM)" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,9 +20,10 @@
 <table align="center">
   <tr>
     <td width="60%">
-      <p>Desenvolvedor apaixonado por arquitetura de software e performance. Especializado no ecossistema <b>JavaScript/TypeScript</b> e em aplicações robustas com <b>Java Spring Boot</b> e <b>Python</b>.</p>
-      <p>💡 Atualmente focado em <b>Microserviços</b> e <b>Cloud Computing (AWS)</b> para criar sistemas que suportam milhares de acessos.</p>
-      <p>🎓 Estudante constante, focado em transformar problemas complexos em código elegante.</p>
+      <p>Desenvolvedor focado em automação de fluxos, integrações de sistemas e desenvolvimento Full-Stack. Especializado no ecossistema <b>JavaScript/TypeScript</b>, construindo desde ferramentas e painéis internos com <b>Next.js</b> e <b>Node.js (Express)</b>, até automações de alta complexidade com <b>n8n</b>.</p>
+      <p>💡 Atualmente focado em criar gateways de API, unificar bases de conhecimento, desenvolver extensões de navegador (DOM/CSS/JS) e construir pontes sólidas entre ferramentas ITSM como GLPI e assyst.</p>
+      <p>🛠️ Sempre buscando transformar processos manuais e problemas complexos em código elegante e fluxos invisíveis de automação.</p>
+      <p>🏋️‍♂️ Fora do horário de trabalho, mantenho a disciplina nos treinos pesados na academia, dedico meu tempo aos meus cachorros e me aventuro em projetos DIY (como costura de jaquetas geek!).</p>
     </td>
   </tr>
 </table>
@@ -34,14 +35,14 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center"><b>Frontend</b></td>
-      <td align="center"><b>Backend</b></td>
-      <td align="center"><b>Infrastructure</b></td>
+      <td align="center"><b>Frontend & UI</b></td>
+      <td align="center"><b>Backend & APIs</b></td>
+      <td align="center"><b>Tools & Infra</b></td>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,sass,bootstrap" /></td>
-      <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi" /></td>
-      <td><img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,git,vscode" /></td>
+      <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" /></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express,ts,postman" /></td>
+      <td><img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash" /></td>
     </tr>
   </table>
 </div>
@@ -68,7 +69,7 @@
 
 <div align="center">
   <a href="mailto:n.nog@icloud.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/netonog">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -85,5 +86,5 @@
 </div>
 
 <div align="right">
-  <sub><i>Última atualização: Março 2026</i></sub>
+  <sub><i>Última atualização: Julho 2026</i></sub>
 </div>
