@@ -37,7 +37,6 @@
       <p>Olá! Sou o <b>José Nogueira (Neto Nog)</b>, <b>Desenvolvedor Full Stack</b> e <b>Especialista em Automações</b>, baseado em Fortaleza/CE e atualmente atuando na <b>Lanlink Informática</b>.</p>
       <p>💡 No meu dia a dia, uno o ecossistema moderno de desenvolvimento web (<b>React, Next.js, Node.js, NestJS e TypeScript</b>) com engenharia de automação avançada (<b>n8n, Python e Microsoft Power Platform</b>), construindo pontes entre diferentes plataformas corporativas e transformando processos manuais repetitivos em fluxos invisíveis, eficientes e à prova de falhas.</p>
       <p>🚀 <b>Princípios de Trabalho:</b> Código limpo, componentização de alta fidelidade, APIs RESTful padronizadas, testes e foco obsessivo na usabilidade e no impacto direto ao negócio.</p>
-      <p>🏋️‍♂️ <b>Fora do terminal:</b> Mantenho disciplina diária nos treinos, pratico esportes ao ar livre (corrida de rua e basquete) e curto momentos com meus cachorros.</p>
     </td>
     <td width="35%" align="center">
       <img src="https://avatars.githubusercontent.com/u/62083668?v=4" width="180px" style="border-radius: 50%; border: 3px solid #00d2ff;" alt="José Nogueira" />
