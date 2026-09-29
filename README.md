@@ -36,7 +36,7 @@
     <td width="65%">
       <p>Olá! Sou o <b>José Nogueira (Neto Nog)</b>, <b>Desenvolvedor Full Stack</b> e <b>Especialista em Automações Corporativas</b>, baseado em Fortaleza/CE, atuando em projetos de engenharia de software de alta performance.</p>
       <p>💡 No meu dia a dia, uno o ecossistema moderno de desenvolvimento web (<b>React 19, Next.js 16 App Router, TypeScript, Node.js e NestJS</b>) com engenharia de automação avançada (<b>n8n, Python, Webhooks e Microsoft Power Platform</b>), construindo pontes entre diferentes plataformas corporativas e transformando processos manuais repetitivos em fluxos invisíveis, eficientes e à prova de falhas.</p>
-      <p>🚀 <b>Foco em Engenharia & Performance:</b> Aplico rigorosamente os princípios de <b>Clean Code</b>, arquitetura <b>SOLID</b>, componentização de alta fidelidade com acessibilidade (WCAG), APIs RESTful padronizadas, testes automatizados e otimização obsessiva de carregamento e experiência do usuário (Core Web Vitals 100/100).</p>
+      <p>🚀 <b>Foco em Engenharia & Performance:</b> Aplico rigorosamente os princípios de <b>Clean Code</b>, arquitetura <b>SOLID</b>, componentização de alta fidelidade com acessibilidade (WCAG), APIs RESTful padronizadas, testes automatizados e otimização contínua de carregamento e experiência do usuário (Core Web Vitals).</p>
       <p>🎯 <b>Propósito:</b> Desenvolver software escalável, seguro e resiliente que gere impacto financeiro e operacional tangível para os negócios.</p>
     </td>
     <td width="35%" align="center">
@@ -58,22 +58,17 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <h3>🚀 10x+</h3>
         <b>Agilidade Operacional</b>
         <p>Consultas, relatórios e processos acelerados do front-end com Next.js Turbopack ao banco relacional otimizado.</p>
       </td>
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <h3>📉 -30%</h3>
         <b>Redução de Tarefas Manuais</b>
         <p>Orquestração contínua via n8n, webhooks e automação de incidentes/ITSM sem erros humanos.</p>
       </td>
-      <td width="25%" align="center">
-        <h3>💯 100/100</h3>
-        <b>Google Lighthouse</b>
-        <p>Aplicações modernas com carregamento ultrarrápido, SEO otimizado, semântica e acessibilidade rigorosa.</p>
-      </td>
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <h3>🛡️ &gt; 95% SLA</h3>
         <b>Alta Disponibilidade</b>
         <p>Arquiteturas resilientes, persistência transacional ACID com PostgreSQL/Prisma e suporte a sistemas críticos.</p>
@@ -153,15 +148,16 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🅿️ SmartPark Totem • Autoatendimento Industrial</h4>
-      <p>Sistema completo de autoatendimento para estacionamentos rotativos projetado para totens touchscreen com integração a hardware físico (leitor ótico laser, impressora térmica 80mm ESC/POS e PinPad TEF).</p>
-      <p><b>Diferenciais:</b></p>
+    <td colspan="2" valign="top">
+      <h4>🅿️ SmartPark Totem • Sistema Industrial de Autoatendimento</h4>
+      <p>Terminal completo e autônomo touch-screen para estacionamentos rotativos projetado para hardware físico e operação pública contínua.</p>
+      <p><b>Diferenciais de Engenharia:</b></p>
       <ul>
-        <li>Ponte <b>PIX Oficial Banco Central (EMVco / CRC16-CCITT)</b> com polling em tempo real e Webhook.</li>
-        <li>Ponte <b>TEF PinPad</b> (Cartões de Débito/Crédito) com máquina de estados.</li>
-        <li>Emissão fiscal <b>DANFE NFC-e SEFAZ</b> e síntese de voz nativa multilíngue.</li>
-        <li>Blindagem contra toque indevido (Kiosk Mode) e persistência PostgreSQL 16 com Prisma.</li>
+        <li>Ponte <b>PIX Oficial Banco Central (EMVco / CRC16-CCITT)</b> com polling em tempo real e Webhook assíncrono.</li>
+        <li>Ponte <b>TEF PinPad</b> (Cartões de Débito/Crédito) com máquina de estados e integração com hardware.</li>
+        <li>Emissão fiscal <b>DANFE NFC-e SEFAZ</b> e síntese de áudio/voz nativa multilíngue (Web Audio & Speech API).</li>
+        <li>Suporte simultâneo a leitor ótico laser USB e teclado virtual touchscreen com proteção Kiosk Mode.</li>
+        <li>Persistência relacional transacional com PostgreSQL 16, Prisma ORM e conteinerização Docker.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -173,6 +169,8 @@
       </p>
       <p><a href="https://github.com/NetoNog/TotemEstacionameto"><b>Ver Código & Documentação Completa →</b></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🔄 Monitoramento & Automação de ITSMs</h4>
       <p>Aplicação de integração contínua conectada a APIs de ITSMs e webhooks via n8n. Automatiza o ciclo de vida completo de tickets, distribuição inteligente de filas de suporte e alertas em tempo real.</p>
@@ -191,12 +189,10 @@
       </p>
       <p><a href="https://github.com/NetoNog/dashboard-filas-itsm"><b>Ver Repositório →</b></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h4>⚡ Landing Pages de Ultra Performance</h4>
-      <p>Aplicações web modernas desenvolvidas para negócios de alto fluxo, focadas em taxa de conversão, carregamento instantâneo, responsividade fluida e pontuação máxima no Google Lighthouse.</p>
-      <p><b>Destaque:</b> <code>100/100 no Google Lighthouse (Performance, Acessibilidade e SEO)</code></p>
+      <h4>⚡ Landing Pages de Alta Performance</h4>
+      <p>Aplicações web modernas desenvolvidas para negócios de alto fluxo, focadas em taxa de conversão, carregamento instantâneo, responsividade fluida e microinterações atraentes.</p>
+      <p><b>Destaque:</b> <code>Carregamento Instantâneo, Responsividade Fluida & Alta Conversão</code></p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -207,18 +203,6 @@
         <a href="https://github.com/NetoNog/leadingPageIronJungle"><b>Ver Iron Jungle →</b></a> • 
         <a href="https://github.com/NetoNog/leadingPage_OriginalPizza-Acai"><b>Ver Original Pizza →</b></a>
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💼 Plataforma de Gestão Empresarial (ERP)</h4>
-      <p>Sistema corporativo desenvolvido para centralização de operações financeiras, controle transacional rigoroso e emissão automatizada de relatórios com alta disponibilidade e segurança.</p>
-      <p><b>Destaque:</b> <code>Consultas e relatórios 10x mais rápidos</code></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
-      <p><a href="https://github.com/NetoNog"><b>Ver Repositórios no GitHub →</b></a></p>
     </td>
   </tr>
 </table>
