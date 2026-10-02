@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td width="65%">
-      <p>Olá! Sou o <b>José Nogueira (Neto Nog)</b>, <b>Desenvolvedor Full Stack</b> e <b>Especialista em Automações Corporativas</b>, baseado em Fortaleza/CE, atuando em projetos de engenharia de software de alta performance.</p>
+      <p>Olá! Sou o <b>José Nogueira (Neto Nog)</b>, <b>Desenvolvedor Full Stack</b> e <b>Especialista em Automações Corporativas</b>, moro em Fortaleza/CE, atuando em projetos de engenharia de software de alta performance.</p>
       <p>💡 No meu dia a dia, uno o ecossistema moderno de desenvolvimento web (<b>React 19, Next.js 16 App Router, TypeScript, Node.js e NestJS</b>), engenharia de <b>IA & Visão Computacional local</b> (<b>Python, MediaPipe, OpenCV</b>) e automação corporativa avançada (<b>n8n, Webhooks e Microsoft Power Platform</b>), construindo pontes entre diferentes plataformas e transformando processos manuais repetitivos em fluxos inteligentes, eficientes e à prova de falhas.</p>
       <p>🚀 <b>Foco em Engenharia & Performance:</b> Aplico rigorosamente os princípios de <b>Clean Code</b>, arquitetura <b>SOLID</b>, componentização de alta fidelidade com acessibilidade (WCAG), APIs RESTful padronizadas, testes automatizados e otimização contínua de carregamento e experiência do usuário (Core Web Vitals).</p>
       <p>🎯 <b>Propósito:</b> Desenvolver software escalável, seguro e resiliente que gere impacto financeiro e operacional tangível para os negócios.</p>
