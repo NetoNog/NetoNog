@@ -40,13 +40,17 @@
       <p>🎯 <b>Propósito:</b> Desenvolver software escalável, seguro e resiliente que gere impacto financeiro e operacional tangível para os negócios.</p>
     </td>
     <td width="35%" align="center">
-      <img src="https://avatars.githubusercontent.com/u/62083668?v=4" width="180px" style="border-radius: 50%; border: 3px solid #00d2ff;" alt="José Nogueira" />
+      <a href="https://www.google.com/maps/place/Fortaleza+-+CE/@-3.7318616,-38.5266704,13z" target="_blank">
+        <img src="https://raw.githubusercontent.com/NetoNog/NetoNog/main/mapa-fortaleza.jpg" width="210px" style="border-radius: 12px; border: 2px solid #00d2ff; box-shadow: 0 4px 14px rgba(0, 210, 255, 0.25);" alt="Mapa de Fortaleza, CE no Google Maps" />
+      </a>
       <br/><br/>
-      <a href="https://github.com/NetoNog?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/%F0%9F%93%82_Ver_Projetos-00d2ff?style=flat-square&labelColor=040812" alt="Ver Projetos" />
+      <a href="https://www.google.com/maps/place/Fortaleza+-+CE/@-3.7318616,-38.5266704,13z" target="_blank">
+        <img src="https://img.shields.io/badge/Google_Maps-Fortaleza%2C_CE-EA4335?style=flat-square&logo=googlemaps&logoColor=white" alt="Geolocalização Google Maps" />
       </a>
       <br/>
-      <sub>📍 Fortaleza, CE • Brasil (Disponível Remoto / Híbrido)</sub>
+      <a href="https://www.google.com/maps/place/Fortaleza+-+CE/@-3.7318616,-38.5266704,13z" target="_blank">
+        <sub>📍 Fortaleza, CE • Brasil (Disponível Remoto / Híbrido)</sub>
+      </a>
     </td>
   </tr>
 </table>
