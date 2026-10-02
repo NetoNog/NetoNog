@@ -41,7 +41,7 @@
     </td>
     <td width="35%" align="center">
       <a href="https://www.google.com/maps/place/Fortaleza+-+CE/@-3.7318616,-38.5266704,13z" target="_blank">
-        <img src="https://raw.githubusercontent.com/NetoNog/NetoNog/main/mapa-fortaleza.jpg" width="210px" style="border-radius: 12px; border: 2px solid #00d2ff; box-shadow: 0 4px 14px rgba(0, 210, 255, 0.25);" alt="Mapa de Fortaleza, CE no Google Maps" />
+        <img src="https://raw.githubusercontent.com/NetoNog/NetoNog/main/mapa-fortaleza.png" width="220px" style="border-radius: 12px; border: 2px solid #00d2ff; box-shadow: 0 4px 14px rgba(0, 210, 255, 0.25);" alt="Mapa de Fortaleza, CE" />
       </a>
       <br/><br/>
       <a href="https://www.google.com/maps/place/Fortaleza+-+CE/@-3.7318616,-38.5266704,13z" target="_blank">
