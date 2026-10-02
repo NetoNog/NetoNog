@@ -1,10 +1,10 @@
-﻿<div align="center">
+<div align="center">
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040812,50:0d1b2a,100:00d2ff&height=220&section=header&text=Jos%C3%A9%20Nogueira%20(Neto)&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Especialista%20em%20Automa%C3%A7%C3%B5es&descSize=20&descAlignY=62&descColor=38bdf8" width="100%" alt="José Nogueira - Neto Nog" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/NetoNog" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+%26+Software+Engineer;React+19+%E2%80%A2+Next.js+16+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Automa%C3%A7%C3%B5es+Corporativas+com+n8n+%26+Python;Arquitetura+Robusta+%E2%80%A2+APIs+REST+%E2%80%A2+PostgreSQL;Foco+em+Alto+Desempenho%2C+Clean+Code+%26+Impacto+Real" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack+%26+Software+Engineer;React+19+%E2%80%A2+Next.js+16+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;IA+%26+Vis%C3%A3o+Computacional+%E2%80%A2+MediaPipe+%26+Python;Automa%C3%A7%C3%B5es+Corporativas+com+n8n+%26+Python;Arquitetura+Robusta+%E2%80%A2+APIs+REST+%E2%80%A2+PostgreSQL;Foco+em+Alto+Desempenho%2C+Clean+Code+%26+Impacto+Real" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -35,7 +35,7 @@
   <tr>
     <td width="65%">
       <p>Olá! Sou o <b>José Nogueira (Neto Nog)</b>, <b>Desenvolvedor Full Stack</b> e <b>Especialista em Automações Corporativas</b>, baseado em Fortaleza/CE, atuando em projetos de engenharia de software de alta performance.</p>
-      <p>💡 No meu dia a dia, uno o ecossistema moderno de desenvolvimento web (<b>React 19, Next.js 16 App Router, TypeScript, Node.js e NestJS</b>) com engenharia de automação avançada (<b>n8n, Python, Webhooks e Microsoft Power Platform</b>), construindo pontes entre diferentes plataformas corporativas e transformando processos manuais repetitivos em fluxos invisíveis, eficientes e à prova de falhas.</p>
+      <p>💡 No meu dia a dia, uno o ecossistema moderno de desenvolvimento web (<b>React 19, Next.js 16 App Router, TypeScript, Node.js e NestJS</b>), engenharia de <b>IA & Visão Computacional local</b> (<b>Python, MediaPipe, OpenCV</b>) e automação corporativa avançada (<b>n8n, Webhooks e Microsoft Power Platform</b>), construindo pontes entre diferentes plataformas e transformando processos manuais repetitivos em fluxos inteligentes, eficientes e à prova de falhas.</p>
       <p>🚀 <b>Foco em Engenharia & Performance:</b> Aplico rigorosamente os princípios de <b>Clean Code</b>, arquitetura <b>SOLID</b>, componentização de alta fidelidade com acessibilidade (WCAG), APIs RESTful padronizadas, testes automatizados e otimização contínua de carregamento e experiência do usuário (Core Web Vitals).</p>
       <p>🎯 <b>Propósito:</b> Desenvolver software escalável, seguro e resiliente que gere impacto financeiro e operacional tangível para os negócios.</p>
     </td>
@@ -118,6 +118,18 @@
 
   <br/>
 
+  <h4>🧠 Inteligência Artificial, Visão Computacional & Desktop</h4>
+  <p>
+    <img src="https://img.shields.io/badge/MediaPipe_Tasks-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe Tasks" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/CustomTkinter-2D3748?style=for-the-badge&logo=python&logoColor=38bdf8" alt="CustomTkinter" />
+    <img src="https://img.shields.io/badge/Vis%C3%A3o_Computacional_Local-00d2ff?style=for-the-badge&logo=eye&logoColor=040812" alt="Visão Computacional" />
+    <img src="https://img.shields.io/badge/S%C3%ADntese_de_Voz_(TTS)-10B981?style=for-the-badge&logo=audio&logoColor=white" alt="TTS" />
+  </p>
+
+  <br/>
+
   <h4>🔄 Automações, RPA & Conectividade</h4>
   <p>
     <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -147,6 +159,32 @@
 ### 📂 Projetos em Destaque
 
 <table width="100%">
+  <!-- PROJETO 1: LIBRAS STUDIO -->
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🤟 Libras Studio Pro • Tradutor em Tempo Real com Visão Computacional Local</h4>
+      <p>Sistema avançado de alta precisão e baixa latência para rastreamento bimanual e facial, reconhecimento de sinais estáticos (A-Z) e dinâmicos (J, Z), tradução sintática gramatical e <b>síntese de voz em português (TTS)</b> com execução puramente local em CPU (30+ FPS, sem dependência de GPUs ou nuvem).</p>
+      <p><b>Diferenciais de Engenharia:</b></p>
+      <ul>
+        <li>Rastreamento bimanual e facial 3D via <b>MediaPipe</b> com filtro cinético <b>1€ Filter</b> para eliminação de jitter.</li>
+        <li>Classificação geométrica e vetorial com diferenciação fina (F vs T, M vs N, punhos A/S/E e orientação espacial).</li>
+        <li>Tradução sintática automática de estrutura de Libras para português fluente e motor de áudio TTS multithread.</li>
+        <li>Exportação de legendas de padrão broadcast <b>SubRip (.SRT)</b> com timestamps automáticos e arquivos <b>.TXT</b>.</li>
+        <li>Interface desktop moderna desenvolvida em CustomTkinter com modo Studio e HUD de vídeo em tempo real.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python_3.12+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/CustomTkinter-2D3748?style=flat-square&logo=python&logoColor=38bdf8" alt="CustomTkinter" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Legendas_.SRT-10B981?style=flat-square" alt="SRT" />
+      </p>
+      <p><a href="https://github.com/NetoNog/Libras-Studio"><b>Ver Código & Demonstração Completa →</b></a></p>
+    </td>
+  </tr>
+
+  <!-- PROJETO 2: SMARTPARK TOTEM -->
   <tr>
     <td colspan="2" valign="top">
       <h4>🅿️ SmartPark Totem • Sistema Industrial de Autoatendimento</h4>
@@ -167,9 +205,11 @@
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
-      <p><a href="https://github.com/NetoNog/TotemEstacionameto"><b>Ver Código & Documentação Completa →</b></a></p>
+      <p><a href="https://github.com/NetoNog/Totemestacionamento"><b>Ver Código & Documentação Completa →</b></a></p>
     </td>
   </tr>
+
+  <!-- PROJETOS 3 & 4: ITSM & LANDING PAGES -->
   <tr>
     <td width="50%" valign="top">
       <h4>🔄 Monitoramento & Automação de ITSMs</h4>
@@ -216,7 +256,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/NetoNog">
-          <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=NetoNog&show_icons=true&theme=tokyonight&bg_color=040812&title_color=00d2ff&text_color=e2e8f0&icon_color=38bdf8&border_color=00d2ff&border_radius=12" alt="GitHub Stats de NetoNog" />
+          <img src="https://github-readme-stats.vercel.app/api?username=NetoNog&show_icons=true&theme=tokyonight&bg_color=040812&title_color=00d2ff&text_color=e2e8f0&icon_color=38bdf8&border_color=00d2ff&border_radius=12" alt="GitHub Stats de NetoNog" />
         </a>
       </td>
       <td align="center">
@@ -228,7 +268,7 @@
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/NetoNog">
-          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=NetoNog&layout=compact&theme=tokyonight&bg_color=040812&title_color=00d2ff&text_color=e2e8f0&border_color=00d2ff&border_radius=12" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoNog&layout=compact&theme=tokyonight&bg_color=040812&title_color=00d2ff&text_color=e2e8f0&border_color=00d2ff&border_radius=12" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -262,7 +302,7 @@
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
     <a href="mailto:n.nog@icloud.com">
-      <img src="https://img.shields.io/badge/Email-n.nog%40icloud.com-D14836?style=for-the-badge&logo=apple&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-n.nog%40icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/NetoNog?tab=repositories" target="_blank">
       <img src="https://img.shields.io/badge/Ver_Projetos_no_GitHub-00d2ff?style=for-the-badge&logo=github&logoColor=040812" alt="GitHub" />
